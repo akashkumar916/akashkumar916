@@ -24,6 +24,9 @@
 <br />
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-SKILLS-green?style=for-the-badge&logo=shikimori" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>
+  <br/>
   <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Java-007ACC?style=for-the-badge&logo=java" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +36,7 @@
   <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
   <img src="https://img.shields.io/badge/-DSA-black?style=for-the-badge&logo=ds-automobiles&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Machine learning-black?style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Machine learning-black?style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,8 +44,14 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Profiles Link-important?style=for-the-badge&logo=peertube" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>
+  <br/>
+   <a target="_blank"href="https://www.linkedin.com/in/a-chatterjee/"><img src="https://img.shields.io/badge/Hackerrank%2020.04%20LTS-informational?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://www.linkedin.com/in/a-chatterjee/"><img src="https://img.shields.io/badge/HackerEarth-blue?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://www.linkedin.com/in/a-chatterjee/"> <img src="https://img.shields.io/badge/Leetcode-blue?style=for-the-badge&logo=Leetcode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://www.linkedin.com/in/a-chatterjee/"> <img src="https://img.shields.io/badge/Codechef-blue?style=for-the-badge&logo=Codechef&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a target="_blank"href="https://www.linkedin.com/in/a-chatterjee/"> <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=akashkumar916.akashkumar916" />
