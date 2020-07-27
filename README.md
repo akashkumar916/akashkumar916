@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   <br/>
   <br/>
-   <img src="https://img.shields.io/badge/-Profiles Link-important?style=for-the-badge&logo=peertube" />&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Profiles Link-informational?style=for-the-badge&logo=peertube" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
    <a target="_blank"href="https://www.hackerrank.com/Jacckash_Akash/"><img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
