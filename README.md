@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/-SKILLS-green?style=for-the-badge&logo=shikimori" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Java-007ACC?style=for-the-badge&logo=java" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,7 +46,7 @@
    <a target="_blank"href="https://www.hackerearth.com/@akash1043"><img src="https://img.shields.io/badge/HackerEarth-black?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a target="_blank"href="https://leetcode.com/akash_kumar916/"> <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=Leetcode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a target="_blank"href="https://www.codechef.com/users/jacckashakashk"> <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=Codechef&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a target="_blank"href="https://www.kaggle.com/jacckashakash"> <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a target="_blank"href="https://www.kaggle.com/jacckashakash"> <img src="https://img.shields.io/badge/Kaggle-green?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=akashkumar916.akashkumar916" />
