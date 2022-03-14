@@ -2,7 +2,7 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/akash-kumar916/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://github.com/akashkumar916"><img src="https://img.shields.io/badge/Akash %20Kumar-Welcomes%20You-007afb?style=for-the-badge&logo=hackaday" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ak8427916@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:akash.me916@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashkumar916&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Akash Kumar's github stats"/>
@@ -42,7 +42,7 @@
    <img src="https://img.shields.io/badge/-Profiles Link-informational?style=for-the-badge&logo=peertube" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
-     <a target="_blank"href="https://www.linkedin.com/in/akash-kumar916"> <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Codechef&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
      <a target="_blank"href="https://akash-kumar916.medium.com/"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a target="_blank"href="https://www.hackerrank.com/Jacckash_Akash/"><img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a target="_blank"href="https://www.hackerearth.com/@akash1043"><img src="https://img.shields.io/badge/HackerEarth-black?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
