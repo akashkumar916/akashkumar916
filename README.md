@@ -7,9 +7,8 @@
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashkumar916&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Akash Kumar's github stats"/>
   
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumar916&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Akash Kumar's github stats"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumar916&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Language used"/>
 </p>
-<br />
 <br />
 <br />
 <br />
@@ -31,6 +30,7 @@
   <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Erlang-black?style=for-the-badge&logo=erlang" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=ff0000" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
