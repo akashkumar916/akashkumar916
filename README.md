@@ -21,6 +21,8 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/-SKILLS-green?style=for-the-badge&logo=shikimori" />&nbsp;&nbsp;&nbsp;&nbsp;
