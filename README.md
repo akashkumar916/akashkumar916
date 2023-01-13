@@ -5,24 +5,11 @@
 <a href="mailto:akash.me916@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashkumar916&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Akash Kumar's github stats"/>
+ <!--  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashkumar916&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Akash Kumar's github stats"/>-->
   
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumar916&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Language used"/>
+  <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumar916&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Language used"/>-->
 </p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-SKILLS-green?style=for-the-badge&logo=shikimori" />&nbsp;&nbsp;&nbsp;&nbsp;
