@@ -32,7 +32,7 @@
  </a>
 
 </p>
-<br />
+
 
 <!-- About Section -->
  # About me
@@ -47,9 +47,6 @@
 
 </p>
 
-<br/>
-<br/>
-<br/>
 
 ## Use To Code
 ![Java](https://img.shields.io/badge/Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=grey)
