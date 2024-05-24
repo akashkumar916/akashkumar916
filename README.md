@@ -10,7 +10,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Hello, I'm a Graduate Student at the University of Florida and pursuing a master's in computer science. I have nearly 2 years of experience as a software developer. 」
+    「 Hello, I am a recent computer science graduate from the University of Florida, and I have nearly two years of experience working as a software developer. 」
     <br>
     <br>
   </samp>
