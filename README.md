@@ -10,7 +10,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Hello, I am a recent computer science graduate from the University of Florida, and I have nearly two years of experience working as a software developer. 」
+    「 Hello, Another guy in Tech :) 」
     <br>
     <br>
   </samp>
@@ -42,7 +42,7 @@
   
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: akashkumar@ufl.edu<br/><br/>
+ 📧 &emsp; Reach me anytime: akash.kumar916@gmail.com<br/><br/>
 
 
 </p>
@@ -69,12 +69,6 @@
 <br/>
 <hr/>
 <br/>
-
-<p align="center">
-  <a href="https://github.com/akashkumar916">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumar916&theme=radical&border=7F3FBF&background=0D1117" alt="Akash GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/akashkumar916">
