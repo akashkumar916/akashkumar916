@@ -48,23 +48,6 @@
 </p>
 
 
-## Use To Code
-![Java](https://img.shields.io/badge/Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=grey)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&labelColor=black&logo=c++&logoColor=F0DB4F)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
-![Backend](https://img.shields.io/badge/Backend-sky?style=for-the-badge&labelColor=black&logo=backend&logoColor=F0DB4F)
-![Full-Stack](https://img.shields.io/badge/Full-stack-blue?style=for-the-badge&labelColor=black&logo=fullstack&logoColor=F0DB4F)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
 
 <br/>
 <hr/>
